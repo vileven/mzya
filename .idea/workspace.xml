@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f383eca-44b6-443e-87d7-b0116d8d893a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/CharClassifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/CharType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalAnalizer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/LexicalState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/ParsingException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/lexical/Token.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/syntax/SyntaxAnalizer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/asm_dz2/com/vileven/syntax/SyntaxException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/asm_dz2/com/vileven/MainTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/asm_dz2/com/vileven/lexical/LexicalAnalizerTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/asm_dz2/com/vileven/lexical/TokenTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/asm_dz2/com/vileven/syntax/SyntaxAnalizerTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asm_dz2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/lexical/CharClassifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/lexical/CharType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/lexical/LexicalAnalizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/lexical/LexicalState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/lexical/ParsingException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/lexical/Token.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/syntax/SyntaxAnalizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/vileven/syntax/SyntaxException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/com/vileven/MainTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/com/vileven/lexical/LexicalAnalizerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/com/vileven/lexical/TokenTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/com/vileven/syntax/SyntaxAnalizerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tp_java_new.xml" />
-    </list>
+    <list default="true" id="6f383eca-44b6-443e-87d7-b0116d8d893a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1017,7 +968,7 @@
       <workItem from="1495779056323" duration="1253000" />
       <workItem from="1495785289472" duration="87000" />
       <workItem from="1495794358081" duration="16000" />
-      <workItem from="1495811068745" duration="115000" />
+      <workItem from="1495811068745" duration="259000" />
     </task>
     <servers />
   </component>
@@ -1054,7 +1005,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47999000" />
+    <option name="totallyTimeSpent" value="48143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
